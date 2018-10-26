@@ -1,0 +1,6 @@
+keras==2.0.8
+tensorflow==1.0.1
+numpy
+scipy
+h5py
+sklearn
