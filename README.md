@@ -50,10 +50,10 @@ http://staff.ustc.edu.cn/~chenzhibo/resources.html, 2018).
 
 Running based on Keras 
 
-1.download test data from https://www.dropbox.com/sh/l1etoxb0s9xnjdi/AADN1mrqghB9H9xz6ewhzFV4a?dl=0
+1.download test data from https://www.dropbox.com/sh/l1etoxb0s9xnjdi/AADN1mrqghB9H9xz6ewhzFV4a?dl=0 and trained model from https://www.dropbox.com/sh/42114q93y9gjz88/AAA16_v7dnyHWlh7SJwTFu_Ja?dl=0
 
-1.test_siqa_model to predict quality score for each image patch pair
+2.test_siqa_model to predict quality score for each image patch pair
 
-2.compute_test to obtain correlation results with MOS scores
+3.compute_test to obtain correlation results with MOS scores
 
 
