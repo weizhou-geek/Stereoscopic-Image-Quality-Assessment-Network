@@ -56,4 +56,18 @@ Running based on Keras
 
 3.compute_test to obtain correlation results with MOS scores
 
+## Citation
+You may cite it in your paper. Thanks a lot.
 
+```
+@article{zhou2019dual,
+  title={Dual-stream interactive networks for no-reference stereoscopic image quality assessment},
+  author={Zhou, Wei and Chen, Zhibo and Li, Weiping},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={8},
+  pages={3946--3958},
+  year={2019},
+  publisher={IEEE}
+}
+```
