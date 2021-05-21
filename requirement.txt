@@ -1,5 +1,5 @@
 keras==2.0.8
-tensorflow==1.0.1
+tensorflow==2.5.0
 numpy
 scipy
 h5py
